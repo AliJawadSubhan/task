@@ -1,0 +1,25 @@
+# dependencies
+/node_modules
+/node_modules-broken
+
+# Next.js output
+/.next
+/out
+
+# local environment and logs
+.env*
+!.env.example
+*.log
+
+# TypeScript cache
+*.tsbuildinfo
+next-env.d.ts
+
+# local verification artifacts
+/dropdown-proof.png
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode
+.idea
